@@ -1,0 +1,10 @@
+Airton:
+  name: Airton
+  title: Leitor de livros e assistidor de animes
+  url: https://github.com/AirtonBorges
+  image_url: https://github.com/AirtonBorges.png
+
+Julia:
+  name: Julia
+  title: Leitora de livros e assistidora de séries
+  image_url: './julia.png'
